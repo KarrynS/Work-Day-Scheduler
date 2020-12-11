@@ -7,7 +7,7 @@ A simple browser run application that allows user to save events for each hour o
 HTML, CASS, JavaScript, JQuery, moment.js & local storage
 
 # Screeshot of Work Day Scheduler
-<img src="./Assets/DayPlanner.png"
+<img src="./Assets/DayPlanner.png">
 
 # Link to Work Day Sceduler
 
